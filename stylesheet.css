@@ -69,7 +69,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../main-bg.jpg);
+    background-image: url("main-bg.jpg");
     height: 600px;
 
 }
